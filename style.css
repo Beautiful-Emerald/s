@@ -1,0 +1,22 @@
+body{
+background-color:red;
+color:white;
+margin-left:0%;
+margin-right:0%;
+}
+
+#show{
+width:200px;
+height:100px;
+}
+
+#show_div{
+background-color:black;
+width:1000px;
+box-shadow:5px 5px 18px white;
+}
+
+.img{
+width:200px;
+height:200px;
+}
